@@ -9,8 +9,7 @@ I have mostly dabbled around with frontend, but I aim to be a full-stack enginee
 
 Want to know more about me? [Check out my portfolio.](https://www.manhualu.dev/)
 
-<br>
-
+<!-- <br>
 ## &#x1f4c8; GitHub Stats
 
 <br>
@@ -24,7 +23,7 @@ Want to know more about me? [Check out my portfolio.](https://www.manhualu.dev/)
 </a>
 
 <br>
-<br>
+<br> -->
 
 ## 💼 Skills
 
@@ -45,8 +44,6 @@ Want to know more about me? [Check out my portfolio.](https://www.manhualu.dev/)
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-
-<br>
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
