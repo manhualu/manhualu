@@ -3,7 +3,7 @@
 
 Hai there! 🙂
 
-I’m Manhua, a UNSW student currently in my 3rd year studying Computer Science and Commerce (Finance).
+I’m Manhua, a UNSW student currently in my 4th and final year studying Computer Science and Commerce (Finance).
 
 I have mostly dabbled around with frontend, but I aim to be a full-stack engineer in the future!
 
